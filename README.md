@@ -22,7 +22,7 @@ Nuestro más sincero agradecimiento y reconocimiento a [Victor Olaya](https://x.
 
 ## 動作環境
 + **Python=3.11, CUDA 12.4**で動作を確認しています。
-+ `PyTorch`, `rasterio`,`numba`,`tqdm`が必要です。 
++ `rasterio`,`numba`,`tqdm`が必要です。 
 
 ## 動作方法
 `python3 index.py <input_GeoTiff> <output_GeoTiff> --radius <RADIUS>`
